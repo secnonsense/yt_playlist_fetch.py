@@ -3,7 +3,7 @@ Very simple script to download all of your youtube music playlists.  Relies on y
 
 The hardest part is creating the required headers_auth.json file (documented under setup here - https://ytmusicapi.readthedocs.io/en/latest/setup.html). 
 
-pip install ytmusicapi. 
+pip install ytmusicapi 
 
 run python and then type in the following:  
 
