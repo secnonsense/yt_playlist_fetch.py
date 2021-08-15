@@ -13,4 +13,8 @@ YTMusic.setup(filepath='headers_auth.json')
 
 Please paste the request headers from Firefox and press Ctrl-D to continue:  
 
+These headers can be grabbed from Developer tools or a proxy (Burp Suite) when access Youtube Music.  
+
+The headers must contain: x-goog-authuser, cookie
+
 
