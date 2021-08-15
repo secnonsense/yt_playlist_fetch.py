@@ -17,7 +17,7 @@ These headers can be grabbed from Developer tools or a proxy (Burp Suite) when a
 
 The headers must contain: x-goog-authuser, cookie
 
-**Usage: python yt_playlist_fetch.py [-u]  **
+**Usage: python yt_playlist_fetch.py [-u]**
 
 To backup all playlists in files named PLAYLISTNAME_playlist.txt: python yt_playlist_fetch.py  
 
