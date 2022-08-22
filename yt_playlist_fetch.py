@@ -12,7 +12,7 @@ def archive_playlists():
         playlist=playlists[y]['playlistId']
 
 
-        my_playlist=ytmusic.get_playlist(playlist,400)
+        my_playlist=ytmusic.get_playlist(playlist,1400)
 
         file=pl_name+"_playlist.txt"
         print(f"\nWriting Playlist {pl_name} to file {file}...")
